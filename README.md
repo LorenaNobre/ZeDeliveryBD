@@ -40,6 +40,7 @@ As seguintes informações precisam ser salvas: código do relatório, código d
 valor total de vendas, data início e data fim do relatório.
 
 
+![Banco de dados ZeDelivery drawio](https://github.com/LorenaNobre/ZeDeliveryBD/assets/143463369/59c22e8c-0b2b-4bf0-8538-016ce038ffb7)
 
 
 
